@@ -30,36 +30,51 @@ I'm a Data Analyst specializing in ESG/climate data, machine learning and deep l
 Programming & Database:
 
 Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras)
+
 SQL & BigQuery
+
 JavaScript & Java
 
 Data Engineering & ETL:
 
 ETL Pipeline Development
+
 Data Quality Management
+
 dbt (Data Build Tool)
+
 Apache PySpark
 
 Data Analysis & Visualization:
 
 Power BI & Excel (VBA)
+
 Statistical Analysis & Hypothesis Testing
+
 Google Analytics
+
 Exploratory Data Analysis (EDA)
 
 Machine Learning & AI:
 
 Classification & Regression Models
+
 Deep Learning (CNN, LSTM)
+
 Natural Language Processing
+
 A/B Testing & Experimentation
 
 Tools & Platforms:
 
 Git & Azure
+
 MS Project
+
 Spatial NET
+
 QGIS
+
 MapInfo
 
 📊 Featured Projects
