@@ -12,7 +12,7 @@ Hi there, I'm Reshma Rekha 👋
 
 
 
-I'm a Data Analyst specializing in ESG/climate data, sustainable finance, and machine learning. With a Master's in Data Analytics & AI from EDHEC Business School and hands-on experience optimizing ETL pipelines and building predictive models, I transform complex datasets into actionable insights.
+I'm a Data Analyst specializing in ESG/climate data, machine learning and deep learning with previous background as full stack developer. With a Master's in Data Analytics & AI from EDHEC Business School and hands-on experience optimizing ETL pipelines and building predictive models, I transform complex datasets into actionable insights.
 
 🔭 worked  on climate data analysis and ESG data quality management at Asset Impact
 
